@@ -1,3 +1,5 @@
+> **Archiv seit 28. November 2026.** Die aktuelle Entwicklung liegt im gemeinsamen Repository [FalkBornmann/Werkzeugdeck](https://github.com/FalkBornmann/Werkzeugdeck/tree/main/Elektrochemie/Datenauswertung/EIS-Fitting). Dieses Repository erhält die frühere Historie. Neue Änderungen und weitere Tools ausschließlich im gemeinsamen Repository pflegen. [Onlinewerkzeug öffnen](https://werkzeugdeck.pages.dev/tools/eis-fitting/).
+
 # EIS-Fitting
 
 **[App im Werkzeugdeck öffnen](https://werkzeugdeck.pages.dev/tools/eis-fitting/)** · Keine Installation für die Onlineversion nötig.
